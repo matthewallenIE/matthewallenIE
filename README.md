@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matthewallenIE
+## 👋 Hi, I’m @matthewallenIE
 - I am a UI Developer with ☘️ Aer Lingus
 
 <!---
