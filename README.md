@@ -1,7 +1,5 @@
 ## 👋 Hi, I’m @matthewallenIE
-- I am a UI Developer with ☘️ Aer Lingus
-- TypeScript | JavaScript
-- Angular | NgRx | Nx
+- I am a UI Developer with ☘️ Aer Lingus  
 
 <!---
 - 👀 I’m interested in ...
@@ -13,4 +11,5 @@ You can click the Preview link to take a look at your changes.
 1
 2
 3
+4
 --->
