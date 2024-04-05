@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @matthewallenIE
-- I am a UI Developer with ☘️ Aer Lingus  
+- I am a Frontend Developer with ☘️ Aer Lingus  
 
 <!---
 - 👀 I’m interested in ...
