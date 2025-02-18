@@ -1,5 +1,10 @@
-## 👋 Hi, I’m @matthewallenIE
-- I am a Frontend Developer with ☘️ Aer Lingus  
+### 👋 Hi, I’m @matthewallenIE
+
+☘️ I am a Frontend Developer with  Aer Lingus
+
+🛠️ I primarilly work with
+
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,git)](https://skillicons.dev)
 
 <!---
 - 👀 I’m interested in ...
