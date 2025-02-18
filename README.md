@@ -2,7 +2,7 @@
 
 ☘️ I am a Frontend Developer with  Aer Lingus
 
-🛠️ I primarilly work with
+🛠️ I primarily work with
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=angular,ts,js,git&theme=dark)
 
