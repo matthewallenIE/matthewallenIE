@@ -4,7 +4,7 @@
 
 🛠️ I primarilly work with
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=angular,ts,js,git)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=angular,ts,js,git&theme=dark)
 
 <!---
 - 👀 I’m interested in ...
